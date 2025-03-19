@@ -46,7 +46,7 @@
 							<configuration>
 								c
 							</configuration>
-						</plugin>-->
+						</plugin>
 
 						<plugin>
 							<groupId>org.apache.maven.plugins</groupId>
@@ -57,7 +57,7 @@
 									<suiteXmlFile>testng.xml</suiteXmlFile>
 								</suiteXmlFiles>
 							</configuration>
-						</plugin>
+						</plugin>-->
 						<!--
 						https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin -->
 					</plugins>
