@@ -71,7 +71,8 @@ public class TestRun extends InitComponentsClass {
 	public Object[][] loginDetails() throws IOException {
 		List<HashMap<String, String>> loginData = readData();
 		System.out.println(loginData);
-		Object login[][]= {{loginData.get(0)},{loginData.get(1)}};
+		Object login[][]= {{loginData.get(0)}};
+//		,{loginData.get(1)}
 		System.out.println(login);
 //		,{loginData.get(1)},{loginData.get(2)}
 //		HashMap<String, String> data = null;

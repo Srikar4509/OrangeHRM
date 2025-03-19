@@ -7,7 +7,7 @@
         <methods>
           <include name="LaunchWebsite"/>
           <include name="closeBrowser"/>
-          <include name="testRun" invocation-numbers="1"/>
+          <include name="testRun" invocation-numbers="0 1"/>
         </methods>
       </class> <!-- TestFolder.TestRun -->
     </classes>
